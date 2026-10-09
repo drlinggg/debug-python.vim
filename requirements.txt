@@ -1,0 +1,2 @@
+python-dotenv==1.0
+pyintstrument==5.1.3
